@@ -1,2 +1,2 @@
-# kubernetes-learning-journey
+# kubernetes-learning-journey (WORK IN PROFRESS)
 wip
